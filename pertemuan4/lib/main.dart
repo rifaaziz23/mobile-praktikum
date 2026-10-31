@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
 }
 
 class BeritaScreen extends StatefulWidget {
-  const new({super.key});
+  const BeritaScreen({super.key});
 
   @override
   State<BeritaScreen> createState() => _BeritaScreenState();
